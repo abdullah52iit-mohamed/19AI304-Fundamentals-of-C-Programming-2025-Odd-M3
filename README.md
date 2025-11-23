@@ -245,6 +245,7 @@ int main() {
 
 ~~~
 # Output:
+<img width="438" height="183" alt="image" src="https://github.com/user-attachments/assets/996451a3-9e19-4fee-adf5-6f0f8a846156" />
 
 
 # Result: 
