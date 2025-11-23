@@ -245,7 +245,7 @@ int main() {
 
 ~~~
 # Output:
-<img width="438" height="183" alt="image" src="https://github.com/user-attachments/assets/996451a3-9e19-4fee-adf5-6f0f8a846156" />
+<img width="438" height="183" alt="image" src="https://github.com/abdullah52iit-mohamed/19AI304-Fundamentals-of-C-Programming-2025-Odd-M3/blob/main/Screenshot%202025-11-23%20212156.png" />
 
 
 # Result: 
